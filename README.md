@@ -6,4 +6,4 @@
 
 ## First site: https://vladimirsaenko.github.io/GloveOfThanos-Effect-site/
 
-## With random photos: https://vladimirsaenko.github.io/gloveofthanos-RandomPhotos2/
+## With random photos: https://vladimirsaenko.github.io/gloveofthanoseffect-RandomPhotos2/
